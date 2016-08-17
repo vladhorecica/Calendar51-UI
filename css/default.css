@@ -1,0 +1,58 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+}
+p {
+    font-size: 16px;
+}
+h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #2f2f2f;
+    padding: 10px 0;
+}
+.footer-box p {
+    padding: 20px 0;
+}
+.margin {
+    margin-bottom: 45px;
+}
+.bg-1 {
+    background-color: #34495e; /* Wet asphalt lol */
+    color: #ffffff;
+}
+.bg-2 {
+    background-color: #95a5a6;
+    color: #555555;
+}
+.bg-3 {
+    background-color: #ffffff;
+    color: #555555;
+}
+.bg-4 {
+    background-color: #2f2f2f;
+    color: #fff;
+}
+.container-fluid {
+    padding:0;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navbar-nav  li a:hover {
+    color: #34495e !important;
+}
+.event {
+    border: 1px solid;
+}
+.event:hover {
+    background-color: #2c3e50;
+    color: #95a5a6;
+}
