@@ -1,4 +1,4 @@
-Calendar51 Documentation
+Calendar51 UI Documentation
 ========================
 
 ## General
