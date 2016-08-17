@@ -4,7 +4,8 @@ Calendar51 UI Documentation
 ## General
 --------------
 Calendar51 UI project was build using **ReactJS** and **Bootstrap**.
-This is a very very **very** basic implementation.
+- This is a very very **very** basic implementation.
+- The whole React code can be found under src/calendar51.js
 
 
 ## Interface
